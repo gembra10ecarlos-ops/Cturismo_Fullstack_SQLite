@@ -1,0 +1,50 @@
+@import url("https://cdn.jsdelivr.net/npm/swagger-ui-dist@5/swagger-ui.css");
+
+body {
+  background: #f8fafc;
+}
+
+.topbar {
+  background-color: #008940 !important;
+  border-bottom: 2px solid #00A8E1;
+}
+
+.topbar-wrapper .link {
+  display: flex;
+  align-items: center;
+}
+
+.topbar-wrapper .link:before {
+  content: "";
+  display: inline-block;
+  width: 140px;
+  height: 40px;
+  background: url("/static/logo.svg") no-repeat center center / contain;
+  margin-right: 10px;
+}
+
+.topbar-wrapper .link span {
+  display: none;
+}
+
+.swagger-ui .btn.execute {
+  background-color: #00A8E1;
+  border-color: #00A8E1;
+}
+
+.swagger-ui .btn.execute:hover {
+  background-color: #0092c7;
+  border-color: #0092c7;
+}
+
+.swagger-ui .opblock.opblock-get .opblock-summary-method {
+  background-color: #008940;
+}
+
+.swagger-ui .opblock.opblock-post .opblock-summary-method {
+  background-color: #00A8E1;
+}
+
+.swagger-ui .info .title {
+  color: #0f172a;
+}

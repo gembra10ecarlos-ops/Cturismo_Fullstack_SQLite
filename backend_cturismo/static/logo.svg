@@ -1,0 +1,12 @@
+<svg viewBox="-20 -20 440 240" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+  <path d="M120 150 C 60 150, 40 100, 60 50 C 80 10, 140 10, 160 50" fill="none" stroke="#008940" stroke-width="20" stroke-linecap="round"/>
+  <path d="M140 30 L 160 10 M 140 30 L 120 10 M 140 30 L 150 5" stroke="#008940" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="180" cy="70" r="30" fill="#FFC107"/>
+  <g stroke="#FF9800" stroke-width="4">
+    <line x1="180" y1="30" x2="180" y2="10"/><line x1="180" y1="110" x2="180" y2="130"/>
+    <line x1="220" y1="70" x2="240" y2="70"/><line x1="140" y1="70" x2="120" y2="70"/>
+    <line x1="210" y1="40" x2="225" y2="25"/><line x1="150" y1="100" x2="135" y2="115"/>
+  </g>
+  <path d="M100 160 Q 150 120, 200 160 T 300 160" fill="none" stroke="#00A8E1" stroke-width="15" stroke-linecap="round"/>
+  <text x="40" y="140" font-family="Arial Black, sans-serif" font-size="70" fill="#008940">C Turismo</text>
+</svg>
